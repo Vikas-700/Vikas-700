@@ -1,17 +1,11 @@
 
 # About Me-
-Hey there! 👋 I'm Vikas Kumar, a final-year BCA student passionate about computer applications. I'm diving into data analytics, leveraging my skills in programming, problem-solving, and database management. Let's connect and explore opportunities together!
+Hey there! 👋 I'm Vikas Kumar, a BCA graduate passionate about data engineering. I'm diving deep into big data technologies like Spark, Hadoop, and Airflow, and sharpening my skills in Python, SQL, and cloud platforms. Eager to build scalable data pipelines and solve real-world problems with data—let’s connect and explore opportunities together!
 
 
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DC6F?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 
 ## Software Stack
