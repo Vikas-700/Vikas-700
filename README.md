@@ -27,16 +27,3 @@ Hey there! 👋 I'm Vikas Kumar, a BCA graduate passionate about data engineerin
 ![Seaborn](https://img.shields.io/badge/Seaborn-87CEEB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
-## Projects
-
-* [Insert links to your projects or repositories]
-* **Coming soon**: A data analytics project that combines my love for sports and data visualization.
-
-## Let's Connect
-
-* ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [kvikas5705@gmail.com](mailto:kvikas5705@gmail.com)
-* ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)[https://linkedin.com/in/vikaskumar](https://www.linkedin.com/in/vikas-kumar-69a1a5271/)
-* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white): [github.com/Vikas-700](https://github.com/Vikas-700)
-
-If you're as excited about data analytics and virtualization as I am, let's collaborate on a project or simply chat about the latest trends in the field. I'm always up for a good conversation!
